@@ -49,6 +49,7 @@ body{
 }
 
 .header-links:hover {
+    text-decoration: none;
     background-color: #1e3a8a;
     color: white;
 }
